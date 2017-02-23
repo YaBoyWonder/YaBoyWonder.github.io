@@ -1,0 +1,42 @@
+html, body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background: #303030;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 5vmin;
+}
+
+.button {
+  transition: all 0.5s ease;
+  background: white;
+  margin: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+.button:hover {
+  transition: all 0.5s ease;
+  background: red;
+  color: white;
+}
+
+.title {
+  font-size: 13vmin;
+  color: white;
+}
+
+.center_page {
+  width: 100%;
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
