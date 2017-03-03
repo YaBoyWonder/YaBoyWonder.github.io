@@ -5,8 +5,8 @@
   </head>
   <body>
     <div class="center_page">
-      <h1 class="title">Projects:</h1>
-      <div class="links">
+        <h1 class="title">Projects:</h1>
+       <div class="links">
         <?=$thelist?>
       </div>
     </div>
