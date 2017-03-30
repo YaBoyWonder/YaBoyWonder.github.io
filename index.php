@@ -7,7 +7,7 @@
     <div class="center_page">
         <h1 class="title">Projects:</h1>
        <div class="links">
-          <?=$thelist?>
+           <?=$thelist?>
       </div>
     </div>
   </body>
